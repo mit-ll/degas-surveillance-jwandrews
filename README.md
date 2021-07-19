@@ -33,7 +33,7 @@ Before using DEGAS, ensure that this folder and any sub-folders are added to the
 
 Please use this DOI number reference when citing the software:
 
-*FILL OUT ONCE RELEASE*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5113902.svg)](https://doi.org/10.5281/zenodo.5113902)
 
 ### Technical Concept
 
