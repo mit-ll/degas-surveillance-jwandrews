@@ -19,6 +19,10 @@ Research is ongoing and future updates to this software are expected. This softw
 
 This section specifies the run order and requirements for the initial setup the repository. Other repositories in this organization are reliant upon this setup being completed.
 
+Note that for this particular surveillance block an additional time block is needed to ensure the continuity of the prior state.  The time block needs to connect the isValid output of the Visual-Aquisition-Surveillance block to the input isValid_in signal of the same block.
+![image](https://user-images.githubusercontent.com/56841143/140166527-070ef5c3-b7f2-4620-9dbe-dcc5af034568.png)
+
+
 ### degas-core
 
 If you have not already, complete the initial setup associated with the [`degas-core`](https://github.com/mit-ll/degas-core) repository.
